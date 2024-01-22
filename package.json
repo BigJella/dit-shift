@@ -1,0 +1,14 @@
+{
+  "name": "encryptor",
+  "version": "1.0.0",
+  "description": "Cybersecurity encryption project",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Yusuf Abdulahi",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
